@@ -1,16 +1,11 @@
-# movie_info
+# Movies Info
 
-Movie info app made in Flutter.
+Movies info app in Flutter.
 
-## Getting Started
+## Some screenshots from the app
 
-This project is a starting point for a Flutter application.
+#### First movie
+![First movie](resources/first_movie.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Second movie
+![Second movie](resources/second_movie.png)
